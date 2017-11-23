@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: inordeck/netlify-cms
+  repo: https://github.com/inordeck/netlify-cms.git
 
 media_folder: media_folder
 
